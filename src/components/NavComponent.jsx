@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom"
-import {Button} from "@nextui-org/button";
 
 const NavComponent=()=>{
   return(
@@ -25,9 +24,6 @@ const NavComponent=()=>{
     </ul>
   </nav>   
 
-  <Button color="primary">
-      Button
-    </Button>
   </>
   )
 }
